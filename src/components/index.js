@@ -1,0 +1,5 @@
+export { default as TabBar } from "./TabBar"
+export { default as Header } from "./Header"
+export { default as Background } from "./Background"
+export { default as Botao } from "./Botao"
+export { default as CallOutCustom } from "./CallOutCustom"
