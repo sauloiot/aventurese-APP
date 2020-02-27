@@ -1,3 +1,4 @@
+//MAP LOCATION INIT EXAMPLE
 import React, { Component } from 'react';
 import { Dimensions, StyleSheet } from 'react-native';
 import MapView from 'react-native-maps';
