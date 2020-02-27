@@ -82,4 +82,4 @@ const Routes = createAppContainer(createBottomTabNavigator(
   }
 ))
 
-export default Routes
+export default Routes 
